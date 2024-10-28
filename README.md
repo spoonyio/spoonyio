@@ -1,4 +1,6 @@
-## Hi there 👋
+## Howdy World 👋🤠
+
+Currently a student at Oregon State University 🦫
 
 <!--
 **spoonyio/spoonyio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
